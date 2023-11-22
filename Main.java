@@ -3,7 +3,6 @@
  * (it does this by reading from a file(pilotinfo.txt) and performing calculations. 
  * followed by writing the results into a different file(pilot_areas.txt))
  * @author Senay Gebru 
- * NETID: STG230001
  * Date:10/01/2023
  */
 
