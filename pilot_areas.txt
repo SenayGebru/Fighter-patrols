@@ -1,0 +1,15 @@
+Greedo	25.50
+Cristiano	4.00
+Akram	0.75
+Sam	0.90
+Kehali	0.70
+anakin	4.00
+betsy	7.00
+senay	3.61
+john	1.20
+mary	5.14
+kevin	2.50
+lenny	25.50
+peter	15.50
+meow	0.75
+	0.00
