@@ -1,4 +1,4 @@
-# Fighter-patrolsGPT
+# Fighter-patrols
 
 
 Pilot Area Analyzer
