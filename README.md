@@ -25,8 +25,13 @@ Usage:
 4. The program reads pilotinfo.txt and writes the results to pilot_areas.txt.
 
 
-
-
-
 Licenses:
 No License
+
+
+Contributions:
+Contributions to this project are welcome. Please follow the standard procedure:
+1. Fork the repository.
+2. Create a new branch.
+3. Make your changes and commit them.
+4. Submit a pull request with a comprehensive description of changes.
